@@ -1,0 +1,44 @@
+{
+	"hot":[{
+			"id":1,
+			"name":"手机/配件",
+			"url":"list",
+			"icon":"mobile.jpg"
+	
+	
+		},
+		{
+			"id":2,
+			"name":"电脑/配件",
+			"url":"list",
+			"icon":"computer.jpg"
+	
+	
+		},
+		{
+			"id":3,
+			"name":"服装/鞋帽",
+			"url":"list",
+			"icon":"cloth.jpg"
+	
+	
+		},
+		{
+			"id":4,
+			"name":"家用电器",
+			"url":"list",
+			"icon":"tv.jpg"
+	
+	
+		},
+		{
+			"id":5,
+			"name":"轿车/越野",
+			"url":"list",
+			"icon":"car.jpg"
+	
+	
+		}]
+
+
+}

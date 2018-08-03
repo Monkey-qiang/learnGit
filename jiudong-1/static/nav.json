@@ -1,0 +1,41 @@
+{
+"nav":[{
+  			
+  		"name":"用户",
+  		"path":"user",
+  		"selected":false,
+  		"icon":"./assets/user.png",
+  		"active":"./assets/user_a.png"
+		
+  		},
+  		{
+  		"name":"客服",
+  		"path":"service",
+  		"selected":false,
+  		"icon":"./assets/phone.png",
+  		"active":"./assets/phone_a.png"
+  		}, 			
+  		{
+  		"name":"首页",
+  		"path":"home",
+  		"selected":true,
+  		"icon":"./assets/home.png",
+  		"active":"./assets/home_a.png"
+  		},
+  		{
+  		"name":"购物车",
+  		"path":"cart",
+  		"selected":false,
+  		"icon":"./assets/cart.png",
+  		"active":"./assets/cart_a.png"
+  		
+  		},
+  		{
+  		"name":"产品分类",
+  		"path":"category",
+  		"selected":false,
+  		"icon":"./assets/category.png",
+  		"active":"./assets/category_a.png"
+  		}]
+
+}

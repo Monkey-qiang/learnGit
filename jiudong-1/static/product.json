@@ -1,0 +1,47 @@
+{
+	"P001":{
+	
+		"name":"小米4SXiaomi ",
+		"price":1499.00,
+		"icon":"http://backstage.jiudon.com/UploadFiles/Images/Folder_20160318/f_201603182201132031.jpg",
+		"datail":["http://backstage.jiudon.com/UploadFiles/Images/Folder_20160318/f_201603182201135837.jpg","http://backstage.jiudon.com/UploadFiles/Images/Folder_20160318/f_201603182201134899.jpg"],
+		"categoryID":"1"
+	
+	},
+	"P002":{
+		"name":"小米手机5Xiaomi ",
+		"price":1999.00,
+		"icon":"http://backstage.jiudon.com/UploadFiles/Images/Folder_20160318/f_201603182137322861.jpg",
+		"datail":["http://backstage.jiudon.com/UploadFiles/Images/Folder_20160318/f_201603182137320100.jpg","http://backstage.jiudon.com/UploadFiles/Images/Folder_20160318/f_201603182137324578.jpg"],
+		"categoryID":"1"
+	},
+	"P003":{
+    "name":"ThinkPad",
+    "price": 800,
+    "icon": "http://backstage.jiudon.com/UploadFiles/Images/Folder_20160307/f_201603072221273904.jpg",
+    "datail":["http://backstage.jiudon.com/UploadFiles/Images/Folder_20160307/f_201603072222011657.jpg"],
+    "categoryID":"2"
+  },
+	"P004":{
+    "name":"ThinkPad",
+    "price": 800,
+    "icon": "http://backstage.jiudon.com/UploadFiles/Images/Folder_20151105/f_201511052215299692.jpg",
+    "datail":["http://backstage.jiudon.com/UploadFiles/Images/Folder_20151105/f_201511052215298110.jpg","http://backstage.jiudon.com/UploadFiles/Images/Folder_20151105/f_201511052215295260.jpg"],
+    "categoryID":"2"
+  },
+  	"P005":{
+    "name":"samsung S7",
+    "price": 800,
+    "icon": "http://backstage.jiudon.com/UploadFiles/Images/Folder_20160204/f_201602041107311151.jpg",
+    "datail":["http://backstage.jiudon.com/UploadFiles/Images/Folder_20160204/f_201602041107313914.jpg","http://backstage.jiudon.com/UploadFiles/Images/Folder_20160204/f_201602041107313242.jpg","http://backstage.jiudon.com/UploadFiles/Images/Folder_20160204/f_201602041107316028.jpg"],
+    "categoryID":"1"
+  },
+  "P006":{
+    "name":"VIVO X6A",
+    "price": 800,
+    "icon": "http://backstage.jiudon.com/UploadFiles/Images/Folder_20160104/f_201601042209471937.jpg",
+    "datail":["http://backstage.jiudon.com/UploadFiles/Images/Folder_20160104/f_201601042209479820.jpg","http://backstage.jiudon.com/UploadFiles/Images/Folder_20160104/f_201601042209475428.jpg","http://backstage.jiudon.com/UploadFiles/Images/Folder_20160104/f_201601042209479495.jpg"],
+    "categoryID":"1"
+  }
+  
+}
