@@ -5,7 +5,7 @@
 		<router-link :to="{path:'produck',query:{id:1}}">产品1</router-link>
 		<router-link :to="{path:'produck',query:{id:2}}">产品2</router-link>-->
 		<div id='hot'>
-			<router-link v-for='(item,index) in hot' v-bind:to='{path:item.url,query:{c:item.id}}'>
+			<router-link v-for='(item,index) in hot' :key="index" v-bind:to='{path:item.url,query:{c:item.id}}'>
 				<img alt="" v-bind:src="item.icon">					
 				<span> {{item.name}}</span>
 			</router-link>
@@ -23,7 +23,7 @@
 		
 		<div id='product'>
 			<p>九东热卖</p>
-			<router-link v-for='(item,index) in product' v-bind:to="{path: 'datail',query:{id:index}}" >
+			<router-link v-for='(item,index) in product' :key="index" v-bind:to="{path: 'datail',query:{id:index}}" >
 				<img alt="" v-bind:src="item.icon">
 				<span>{{item.name}}</span>
 				<span>{{item.price}}</span>

@@ -7,7 +7,7 @@
 		</div>
 		<router-view/>
 		<div id='router'>
-			<router-link v-for='(item,index) in nav' v-bind:to='item.path' v-on:click.native="active(index)">
+			<router-link v-for='(item,index) in nav' :key="index" v-bind:to='item.path' v-on:click.native="active(index)">
 				<img alt="" v-bind:src="item.selected ? item.active : item.icon">
 				<span v-bind:class="{nav_color: item.selected}">{{item.name}}</span>
 			</router-link>
